@@ -15,12 +15,12 @@ I'm a passionate software developer who thrives on creating elegant, efficient a
   ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
   ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
   ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=typescript&logoColor=black)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-ABDF1E?style=for-the-badge&logo=typescript&logoColor=black)
   ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
   ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+  ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-08426C?style=for-the-badge&logo=tailwind-css&logoColor=black)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+  ![Android](https://img.shields.io/badge/Android-3D8743?style=for-the-badge&logo=android&logoColor=white)
   
 </div>
 
@@ -38,7 +38,7 @@ I'm a passionate software developer who thrives on creating elegant, efficient a
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=satisumit&theme=darkhub&column=7" alt="trophy"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=satisumit&theme=darkhub&column=4" alt="trophy"/>
 </div>
 
 ## 🔗 Connect With Me
